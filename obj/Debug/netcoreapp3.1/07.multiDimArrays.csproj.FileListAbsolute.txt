@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\MultiDimentionalArrays\07.multiDimArrays\bin\Debug\netcoreapp3.1\07.multiDimArrays.exe
+C:\Users\Bla\source\repos\MultiDimentionalArrays\07.multiDimArrays\bin\Debug\netcoreapp3.1\07.multiDimArrays.deps.json
+C:\Users\Bla\source\repos\MultiDimentionalArrays\07.multiDimArrays\bin\Debug\netcoreapp3.1\07.multiDimArrays.runtimeconfig.json
+C:\Users\Bla\source\repos\MultiDimentionalArrays\07.multiDimArrays\bin\Debug\netcoreapp3.1\07.multiDimArrays.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\MultiDimentionalArrays\07.multiDimArrays\bin\Debug\netcoreapp3.1\07.multiDimArrays.dll
+C:\Users\Bla\source\repos\MultiDimentionalArrays\07.multiDimArrays\bin\Debug\netcoreapp3.1\07.multiDimArrays.pdb
+C:\Users\Bla\source\repos\MultiDimentionalArrays\07.multiDimArrays\obj\Debug\netcoreapp3.1\07.multiDimArrays.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\MultiDimentionalArrays\07.multiDimArrays\obj\Debug\netcoreapp3.1\07.multiDimArrays.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\MultiDimentionalArrays\07.multiDimArrays\obj\Debug\netcoreapp3.1\07.multiDimArrays.AssemblyInfo.cs
+C:\Users\Bla\source\repos\MultiDimentionalArrays\07.multiDimArrays\obj\Debug\netcoreapp3.1\07.multiDimArrays.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\MultiDimentionalArrays\07.multiDimArrays\obj\Debug\netcoreapp3.1\07.multiDimArrays.dll
+C:\Users\Bla\source\repos\MultiDimentionalArrays\07.multiDimArrays\obj\Debug\netcoreapp3.1\07.multiDimArrays.pdb
+C:\Users\Bla\source\repos\MultiDimentionalArrays\07.multiDimArrays\obj\Debug\netcoreapp3.1\07.multiDimArrays.genruntimeconfig.cache
