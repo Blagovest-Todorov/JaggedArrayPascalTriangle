@@ -2,7 +2,7 @@
 
 namespace _07.multiDimArrays
 {
-    class Program
+    class PascalTriangle
     {
         static void Main(string[] args)
         {
@@ -14,17 +14,17 @@ namespace _07.multiDimArrays
 
             
 
-            for (int row = 1; row < height; row++)  //we start form row index 1 to fill , becasuse row index 0 is given;
+            for (int row = 1; row < height; row++)  //we start form row index 1 to fill , becasuse row index 0 is 1 given ;
             {
                 
                 triangle[row] = new int[row + 1];
-                triangle[row][0] = 1; //this value one is by task condition of Pascals triagle;
+                triangle[row][0] = 1; //this value 1 is  given by task condition of Pascals triagle;
 
                 for (int col = 1; col < row; col++)
                 {
                     triangle[row][col] = triangle[row-1][col - 1] + triangle[row - 1][col];
                 }
-                triangle[row][row] = 1; //we take here one each row the last column, it is =1 again by task condition
+                triangle[row][row] = 1; //we take here one each row the last column, it is =1 again given by task condition
 
             }
             int count = 18;
